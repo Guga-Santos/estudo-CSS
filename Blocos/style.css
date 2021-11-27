@@ -35,7 +35,7 @@ main {
 section {
     background-color: maroon;
     width: 70%;
-    height: 10%;
+    height: 20%;
 }
 
 section h2 {
@@ -44,10 +44,19 @@ section h2 {
     height: 20%;
 }
 
+aside {
+    background-color: violet;
+    width: 20%;
+    height: 70%;
+    position: absolute;
+    top: 2%;
+    left: 78%;
+}
+
 footer {
-    background-color: lightslategrey;
+    background-color: yellow;
     width: 100%;
-    height: 150 px;
-    position: fixed;
-    top: 1200px;
+    height: 150px;
+    position: relative;
+    margin: 0;
 }
