@@ -1,0 +1,48 @@
+header {
+    background-color: cyan;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.nav {
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.nav-img {
+    width: 40px;
+}
+
+.nav-search {
+   width: 250px ;
+}
+
+nav ul li {
+    width: fit-content;
+    padding-right: 70px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+main {
+    background-color: lightcyan;
+    height: 2000px;
+    width: 80%;
+    margin: auto;
+    position: static;
+    margin-top: 60px;
+    padding-top: 20px;
+}
+
+#imagem {
+    width: 90%;
+    height: 400px;
+    background-color: lightblue;
+    margin: auto;
+}
