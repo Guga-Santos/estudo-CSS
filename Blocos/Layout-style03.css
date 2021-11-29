@@ -39,6 +39,15 @@
     top:15px
 }
 
+.icones {
+    background-color: transparent;
+    width: 30px;
+    padding: 0.8%;
+    margin-left: 30px;
+    float: right;
+    display: inline-block;
+}
+
 #cabecalho {
     width: 30%;
     height: 80%;
